@@ -1,8 +1,8 @@
 # COGS-560-Project-LLMs-with-Perturbations
 Research Project of Ezgi Bakır (student number 2740504) for the Course Cogs560-LLMs for Reasoning and Cognition 
 
-This repository contains the dataset, prompts, model outputs, and code
-for the term project "EVALUATING THE ROBUSTNESS OF GEMMA MODELS ON PERTURBED REASONING QUESTIONS: A COMPARATIVE STUDY".
+This repository contains the dataset, prompts, model outputs, and code for the term project 
+"EVALUATING THE ROBUSTNESS OF GEMMA MODELS ON PERTURBED REASONING QUESTIONS: A COMPARATIVE STUDY".
 
 ## Contents
 - `Dataset_updated` — the 100-question dataset (English + Turkish, with solutions and notes)
